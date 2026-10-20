@@ -69,7 +69,11 @@ Learning Outcomes
 - Familiarity with Cadence Virtuoso for circuit-level design.
 - Exposure to arithmetic circuit implementation and VLSI design concepts.
 
-Author
+
+
+
+
+
 
 Prarthana J Mohan
 
